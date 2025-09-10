@@ -1,0 +1,25 @@
+Data Warehouse Project
+
+This project demonstrates the end-to-end design and implementation of a Data Warehouse (DWH) solution. It covers the full data lifecycle, from data extraction in the OLTP system to insightful reporting in Power BI.
+
+Key Features
+
+ETL Process with SSIS: Designed and implemented Extract, Transform, Load (ETL) workflows to transfer and manage data efficiently from OLTP to OLAP.
+
+Data Warehouse Design: Modeled and built a structured DWH optimized for analytics and decision support.
+
+OLTP & OLAP Diagrams: Provided clear visualization of the database design and flow of data.
+
+Power BI Dashboard: Developed an interactive dashboard to showcase key business insights and trends.
+
+Tools & Technologies
+
+SQL Server
+
+SQL Server Integration Services (SSIS)
+
+Power BI
+
+Outcomes
+
+This project highlights how data can be transformed from operational systems into a centralized warehouse, enabling powerful analytics and better decision-making.
